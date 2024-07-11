@@ -8,6 +8,7 @@ Dieses Projekt ist ein Java-Programm, das die Star Wars API (SWAPI) verwendet, u
 - [Installation](#installation)
 - [Verwendung](#verwendung)
 - [Contributing](#contributing)
+- [Reflektion](#reflektion)
 - [Lizenz](#lizenz)
 
 ## Überblick
@@ -56,6 +57,10 @@ Beiträge zu diesem Projekt sind willkommen! Wenn Sie etwas beitragen möchten, 
 3. Commiten Sie Ihre Änderungen (`git commit -am 'Add new feature'`)
 4. Pushen Sie Ihre Änderungen zum Branch (`git push origin feature/new-feature`)
 5. Erstellen Sie einen neuen Pull Request
+
+## Reflektion
+
+Es war eine interessante und lehrreiche Erfahrung, das Star Wars API Client Projekt zu entwickeln. Die Arbeit mit Java Streams und der Integration der Jackson-Bibliothek für die API-Datenverarbeitung haben mir tieferes Verständnis für diese Technologien vermittelt. Die Herausforderung, die Funktionalitäten für die Filterung und Suche nach Personen und Planeten zu implementieren, hat meine Fähigkeiten in der Java-Entwicklung erweitert. Besonders spannend war es, die Konsoleingabe für dynamische Filteroptionen zu gestalten und sicherzustellen, dass alles reibungslos funktioniert. Die Videopräsentation war eine gute Gelegenheit, das Projekt anschaulich zu präsentieren und mein Wissen darüber zu vertiefen.
 
 ## Lizenz
 
